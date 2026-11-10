@@ -27,8 +27,6 @@ O projeto usa outros cinco padrões, aproveitando o que o Spring oferece para co
 Também aparecem: **Repository** (`OrcamentoRepository`, com implementação em memória), **Template Method**
 (`ServicoFactory.novoServico` e `AprovadorDesconto.aprovar`) e **Singleton** (todo bean do Spring é singleton).
 
-A versão em Java puro (sem Spring) do mesmo projeto está no fork
-[lab-padroes-projeto-java](https://github.com/BrunoCarvalho07/lab-padroes-projeto-java).
 
 ### Como executar
 
